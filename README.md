@@ -4,7 +4,7 @@ This repository contains a Python script designed to help speedcubers memorize e
 
 **Features**
 
-Interactive Quiz: Basically a Python quizlet for speedcubers. The program presents random edge pieces and asks for their corresponding letters.
+Interactive Quiz: Basically a Python quizlet for speedcubers. But since others might use different letters or different buffers, this is 10x easier to customize.
 
 Customizable Dictionary: The edge color pairings and their letter mappings are defined in a dictionary. You can easily modify it to add your own preferences or extend it to include other pieces.
 
@@ -14,7 +14,7 @@ Exit Anytime: Type exit to quit the program.
 
 **How It Works**
 
-The program contains a dictionary mapping color pairs (e.g., ('WHITE', 'BLUE')) to letter pairs (e.g., 'AQ').
+The program contains a dictionary mapping color pairs (e.g., ('WHITE', 'BLUE')) to letter pairs (e.g., 'AQ'), or you can just type A.
 
 A random color pair is selected, and the user is prompted to provide the corresponding letter pair.
 
@@ -28,6 +28,6 @@ The quiz continues until the user types exit.
 
 **Prerequisites**
 
-Python 3.6 or later
+Python 3 or later
 
 **UNDER MIT LICENSE**
