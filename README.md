@@ -1,4 +1,4 @@
-# 3x3_Rubik_Cube_Blindfold_Practice
+# 3x3 Rubik Cube Blindfold Practice [Edges Only: Pochmann Method]
 
 This repository contains a Python script designed to help speedcubers memorize edge pairings for the Old Pochmann method of solving a 3x3 Rubik's Cube blindfolded. The program randomly selects edge color pairs and prompts the user to input their corresponding letter pair notation, assisting in learning and practicing the mapping of colors to letters.
 
@@ -20,7 +20,7 @@ The program checks the input. If correct, the score increases. If your answer is
 
 ## Prerequisites
 
-1. Basic knowledge of Old Pochmann's Method. I recommend Charlie Eggins' videos on Youtube.
+1. Basic knowledge of Old Pochmann's Method. (I recommend Charlie Eggins' videos on Youtube.)
 
 2. Python 3 or later
 
