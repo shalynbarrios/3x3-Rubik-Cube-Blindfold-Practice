@@ -4,11 +4,13 @@ This repository contains a Python script designed to help speedcubers memorize e
 
 ## Features
 
-Basically a Python quizlet for speedcubers. But since others might use different letters or different buffers, this is 10x easier to customize to your letters by editing the dictionary. The edge color pairings and their letter mappings are defined in said dictionary. You can easily modify it to add your own preferences or extend it to include other pieces. I recommend commenting out the colors you are not practicing (for example, if you only want to practice the yellow edges, comment out red, green, blue, white, and orange).
+Basically a Python quizlet for speedcubers. But since other cubers might use different notation, letters, or buffers, this is 10x easier to customize to your technique by editing the Python dictionary. Whether you are a beginner or Charlie Eggins, this program practices your memorization and speed so that you can feel confident using blindfold edge mnemonics. The edge color pairings and their letter mappings are defined in the aforementioned dictionary, which means you can easily modify the code to feature your own preferences or extend it to include other pieces. I recommend commenting out the colors you are not practicing (for example, if you only want to practice the yellow edges, comment out red, green, blue, white, and orange).
 
 Score Tracking: Tracks and displays your score to keep you motivated as you practice.
 
 Make sure to **type exit to quit the program.**
+
+UPDATE [12/17/24]: To get started, **CLICK HERE** for the updated `.py` file: [NEW 3x3 BLD Practice in Python [Edges]](https://github.com/shalynbarrios/3x3-Rubik-Cube-Blindfold-Practice/blob/main/NEW_3x3_practice.py)
 
 ## How it Works
 
@@ -26,6 +28,6 @@ The program checks the input. If correct, the score increases. If your answer is
 
 ## Other Notes
 
-I am working on transferring it out of the Jupyter Notebook and into a standard .py file. I used Jupyter for my personal convenience, but the code works either way.
+This project is available in two formats: a Jupyter Notebook file and a standard Python `.py` file. While both versions work, I recommend using the `.py` file as it is more accessible, follows standard coding practices, and is easier to run in most environments. Happy cubing!
 
 **UNDER MIT LICENSE**
