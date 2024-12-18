@@ -2,6 +2,8 @@
 
 This repository contains a Python script designed to help speedcubers memorize edge pairings for the Old Pochmann method of solving a 3x3 Rubik's Cube blindfolded. The program randomly selects edge color pairs and prompts the user to input their corresponding letter pair notation, assisting in learning and practicing the mapping of colors to letters.
 
+![image](https://github.com/user-attachments/assets/75115820-86e7-497e-af6e-6cf17da41afb)
+
 ## Features
 
 The Quizlet for blindfold speedcubers. 
