@@ -34,6 +34,24 @@ The program checks the input. If correct, the score increases. If your answer is
 
 ## Other Notes
 
-This project is available in two formats: a Jupyter Notebook file and a standard Python `.py` file. While both versions work, I recommend using the `.py` file as it is more accessible, follows standard coding practices, and is easier to run in most environments. Happy cubing!
+This project is available in two formats: a Jupyter Notebook file and a standard Python `.py` file. While both versions work, I recommend using the `.py` file as it is more accessible, follows standard coding practices, and is easier to run in most environments.
+
+## What's Next
+
+I'm currently developing a program for corner piece practice. Once completed, this file will be added to the repository—stay tuned for updates!
+
+I'm also working on a program that lets you practice solving edge pieces from a scramble. The program will provide an edge-only scramble, and you'll need to type in the letters to solve it. The computer will then check your input for accuracy.
+
+**Example:**
+
+Scramble: L D2 R' D2 B2 D2 R' U2 F2 R2 D' L D' U B' U L
+
+User Input: S D N L
+
+Feedback: Correct!
+
+Happy cubing!
+
+## License
 
 **UNDER MIT LICENSE**
